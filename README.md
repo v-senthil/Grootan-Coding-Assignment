@@ -1,4 +1,4 @@
-# Grootan-Coding-Assignment
+# Grootan Coding Assignment
 
 - Name: Senthil Pitchappan V
 - College Name: Velammal College of Engineering and Technology
@@ -20,6 +20,8 @@
 7. Creating the dynamic table with a random table name
 8. Inserting the data from csv file into the Database
 9. Calculating time form the start to the end
+
+Portfolio: https://senthil-v.wixsite.com/portfolio
 
 ### Output
 #### 1. Index UI Page
