@@ -21,6 +21,8 @@
 8. Inserting the data from csv file into the Database
 9. Calculating time form the start to the end
 
+- Video: https://github.com/v-senthil/Grootan-Coding-Assignment/blob/main/Grootan%20Assignment%20-%20Senthil%20V.mkv
+
 Portfolio: https://senthil-v.wixsite.com/portfolio
 
 ### Output
@@ -32,5 +34,3 @@ Portfolio: https://senthil-v.wixsite.com/portfolio
 ![alt text](https://github.com/v-senthil/Grootan-Coding-Assignment/blob/main/Output/Output.png)
 
 
-### Video
-![alt text](https://github.com/v-senthil/Grootan-Coding-Assignment/blob/main/Grootan%20Assignment%20-%20Senthil%20V.mkv)
