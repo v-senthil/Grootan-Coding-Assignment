@@ -21,9 +21,9 @@
 8. Inserting the data from csv file into the Database
 9. Calculating time form the start to the end
 
-- Video: https://github.com/v-senthil/Grootan-Coding-Assignment/blob/main/Grootan%20Assignment%20-%20Senthil%20V.mkv
+- Project Video: https://github.com/v-senthil/Grootan-Coding-Assignment/blob/main/Grootan%20Assignment%20-%20Senthil%20V.mkv
 
-Portfolio: https://senthil-v.wixsite.com/portfolio
+My Portfolio: https://senthil-v.wixsite.com/portfolio
 
 ### Output
 #### 1. Index UI Page
