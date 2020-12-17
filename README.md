@@ -22,4 +22,9 @@
 9. Calculating time form the start to the end
 
 ### Output
+#### 1. Index UI Page
 ![alt text](https://github.com/v-senthil/Grootan-Coding-Assignment/blob/main/Output/Index%20page%20UI.png)
+
+
+#### 2. Output Page
+![alt text](https://github.com/v-senthil/Grootan-Coding-Assignment/blob/main/Output/Output.png)
