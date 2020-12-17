@@ -1,2 +1,7 @@
 # Grootan-Coding-Assignment
-Grootan Coding Assignment on 17th December 2021 - Senthil Pitchappan V - Velammal College of Engineering and Technology
+
+## Name: Senthil Pitchappan V
+## College Name: Velammal College of Engineering and Technology
+## Department: Electronics and Communication Engineering
+
+
