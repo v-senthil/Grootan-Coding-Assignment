@@ -20,3 +20,6 @@
 7. Creating the dynamic table with a random table name
 8. Inserting the data from csv file into the Database
 9. Calculating time form the start to the end
+
+### Output
+![alt text](https://github.com/v-senthil/Grootan-Coding-Assignment/blob/main/Output/Index%20page%20UI.png)
