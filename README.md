@@ -30,3 +30,7 @@ Portfolio: https://senthil-v.wixsite.com/portfolio
 
 #### 2. Output Page
 ![alt text](https://github.com/v-senthil/Grootan-Coding-Assignment/blob/main/Output/Output.png)
+
+
+### Video
+![alt text](https://github.com/v-senthil/Grootan-Coding-Assignment/blob/main/Grootan%20Assignment%20-%20Senthil%20V.mkv)
